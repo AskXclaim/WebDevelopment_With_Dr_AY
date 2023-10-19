@@ -1,0 +1,32 @@
+/*Tags Section*/
+h1 {
+  color: #fff;
+  font-family: "Montserrat-Black", sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+/*Id Section*/
+#title {
+  background-color: #ff4c68;
+}
+
+/*Class Section*/
+.img-logo {
+  width: 6.5rem;
+  height: 3rem;
+}
+
+/*Bootstrap Class overide Section*/
+.container-fluid {
+  padding: 3% 15%;
+}
+.link-grey {
+  color: grey;
+  font-size: 1rem;
+  line-height: 1.5;
+  font-family: "ubuntu", sans-serif;
+}
+.rotate35 {
+  transform: rotate(35deg);
+}
